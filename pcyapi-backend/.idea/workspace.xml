@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71d84ed1-0b0c-41d0-ba18-067e99e7738b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.9.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.9.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2WTucek40ndKDVQTRwDZD6xw7dz" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/pcy/ProgrammingTools/IdeaProjects/pcyapi-backend/src/main/java/com/pcy/project/service/impl",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26091954",
+    "settings.editor.selected.configurable": "settings.sync",
+    "spring.configuration.checksum": "b9aefd91d42d1b5a8c4e5d113fa1e55d",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "9c938886-94eb-44c6-8099-ffad1f95bca1"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/pcy/project/service/impl" />
+      <recent name="$PROJECT_DIR$/pcyapi-gateway/src/main/java/com/pcy/pcyapigateway" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/pcy/project" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pcyapi-interface/src/main/java/com/pcy/pcyapiinterface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pcy.project.model.vo" />
+      <recent name="com.pcy.project.controller" />
+      <recent name="com.pcy.project.mapper" />
+      <recent name="com.pcy.project.model.entity" />
+      <recent name="com.pcy.project.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MainApplicationTests.incokeCount">
+    <configuration name="create_table.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/create_table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="9c938886-94eb-44c6-8099-ffad1f95bca1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainApplicationTests.incokeCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcyapi-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pcy.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pcy.project" />
+      <option name="MAIN_CLASS_NAME" value="com.pcy.project.MainApplicationTests" />
+      <option name="METHOD_NAME" value="incokeCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pcyapi-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pcyapi-backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="pcyapi-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcy.project.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcyapiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="pcyapi-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcy.pcyapigateway.PcyapiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcyapiInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="pcyapi-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcy.pcyapiinterface.PcyapiInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.create_table.sql" />
+      <item itemvalue="JUnit.MainApplicationTests.incokeCount" />
+      <item itemvalue="Spring Boot.PcyapiGatewayApplication" />
+      <item itemvalue="Spring Boot.PcyapiInterfaceApplication" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainApplicationTests.incokeCount" />
+        <item itemvalue="Database Script.create_table.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d84ed1-0b0c-41d0-ba18-067e99e7738b" name="Changes" comment="" />
+      <created>1696768972710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696768972710</updated>
+      <workItem from="1696768973970" duration="54853000" />
+      <workItem from="1697112772272" duration="34655000" />
+      <workItem from="1697263090855" duration="800000" />
+      <workItem from="1697263901092" duration="35815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

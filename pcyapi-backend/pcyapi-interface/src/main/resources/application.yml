@@ -1,0 +1,8 @@
+server:
+  port: 8102
+  servlet:
+    context-path: /api
+pcyapi:
+  client:
+    access-key: 01880a9654da5b8b330ef0ddd7360d8d
+    secret-key: b1f4abe2ca75be17378b65329fdfcf5b
